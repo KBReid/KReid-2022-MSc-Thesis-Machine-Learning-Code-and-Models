@@ -1,7 +1,7 @@
 # Logistic Regression Models *WITHOUT* Gender optimized for maximum combined sensitivity and specificity 
 
 # DESCRIPTION ----
-# # Please note that this code does not generate regularized logistic models. 
+# Please note that this code does not generate  logistic models. 
 # Instead, you will need to import the different models in question into the R / 
 # RStudio working environment (cv_model_01 through cv_model_15) and then run the 
 # code sections in chunks. 
